@@ -38,7 +38,12 @@ INSTALLED_APPS = [
 
     # Local Apps
     'accounts',
-    'core'
+    'activity',
+    'blog',
+    'core',
+    'project',
+    'task',
+    'team'
 ]
 
 MIDDLEWARE = [
